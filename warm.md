@@ -1,8 +1,8 @@
-This is your chance to be a part of the Improving team. We're looking for extraordinary Software Developers to help our customers deliver market leading software product. 
+This is your chance to be a part of the Improving team. We're looking for extraordinary Software Developers to help our customers deliver market leading software product.
 
 **About you**
 
-You love code, learning and helping others. You've lead a small team, have designed more than one system and understand why dependency inversion is important. A `GET` request which mutates state gives you the shivers; You know that `PUT` and `POST` serve different purposes. You know a unit test from an integration test and what is different between Test Driven Development and Behavior Driven Development. A task board is not a novelty.
+You love code, learning and helping others. You've lead a small team, have designed more than one system and understand why dependency inversion is important. A `GET` request which mutates state gives you the *shivers*; You know that `PUT` and `POST` serve different purposes. You know a unit test from an integration test and what is different between Test Driven Development and Behavior Driven Development. A task board is not a novelty.
 
 **About the Position**
 
